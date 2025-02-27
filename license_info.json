@@ -7,12 +7,6 @@
             "disabled": false
         },
         {
-            "machine_id": "notyet",
-            "expiry_date": "2025-2-28",
-            "type": "premium",
-            "disabled": false
-        },
-        {
             "type": "global",
             "expiry_date": "2025-02-28",
             "disabled": false

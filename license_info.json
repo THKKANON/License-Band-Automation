@@ -4,12 +4,14 @@
             "machine_id": "d5b954bddbf876535b981462d2bd3a1edf803c605fcf9cde5892eafb84024218",
             "expiry_date": "2025-04-30",
             "type": "premium",
+            "Info": "My_UL_Desktop",
             "disabled": false
         },
         {
             "machine_id": "5591985a0d2f4205b9ea628cb4412ae5f150eedd4988c116a540f803dc65ff05",
-            "expiry_date": "2025-03-30",
+            "expiry_date": "2025-04-30",
             "type": "premium",
+            "Info": "UL_Samsung_PC",
             "disabled": false
         },
         {

@@ -12,7 +12,7 @@
             "expiry_date": "2025-04-30",
             "type": "premium",
             "Info": "UL_Samsung_PC",
-            "disabled": true
+            "disabled": false
         },
         {
             "type": "global",

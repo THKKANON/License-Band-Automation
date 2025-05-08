@@ -2,14 +2,14 @@
     "licenses": [
         {
             "machine_id": "d5b954bddbf876535b981462d2bd3a1edf803c605fcf9cde5892eafb84024218",
-            "expiry_date": "2025-04-30",
+            "expiry_date": "2025-05-30",
             "type": "premium",
             "Info": "My_UL_Desktop",
             "disabled": false
         },
         {
             "machine_id": "1a232130b2aea24459d01478420984f139201971b64194568f07f97d89e61910",
-            "expiry_date": "2025-04-30",
+            "expiry_date": "2025-05-30",
             "type": "premium",
             "Info": "UL_silver_lenovo_PC",
             "disabled": false
